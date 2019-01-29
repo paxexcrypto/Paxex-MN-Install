@@ -83,8 +83,8 @@ set -- "${POSITIONAL[@]}" # restore positional parameters
 clear
 
 # Set these to change the version of paxex to install
-TARBALLURL="https://github.com/paxexcrypto/Paxex/releases/download/2.0.0/paxex-2.0.0-x86_64-linux-gnu.tar.gz"
-TARBALLNAME="paxex-2.0.0-x86_64-linux-gnu.tar.gz"
+TARBALLURL="https://github.com/paxexcrypto/Paxex/releases/download/2.1.0/paxex-2.1.0-x86_64-linux-gnu.tar.gz"
+TARBALLNAME="paxex-2.1.0-x86_64-linux-gnu.tar.gz"
 BOOTSTRAPURL=""
 BOOTSTRAPARCHIVE=""
 BWKVERSION="1.0.0"
